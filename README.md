@@ -58,7 +58,7 @@
   [Overview](#) | [Code](#)
 
 - 📌 **[KPMG 3rd Project]** - LoRA Fine tunning  
-  [Repository](hunbo/kpmg_3rd_project_LoRA) | [Demo](#)
+  [Repository](kpmg_3rd_project_LoRA) | [Demo](#)
 
 ---
 
