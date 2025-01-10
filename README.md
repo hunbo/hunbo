@@ -57,8 +57,8 @@
 - 🥇 **[Competition Name]** - 1st Place (Rank X/XXX)  
   [Overview](#) | [Code](#)
 
-- 📌 **[Project Name]** - Brief description  
-  [Repository](#) | [Demo](#)
+- 📌 **[KPMG 3rd Project]** - LoRA Fine tunning  
+  [Repository](hunbo/kpmg_3rd_project_LoRA) | [Demo](#)
 
 ---
 
