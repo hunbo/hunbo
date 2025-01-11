@@ -28,7 +28,8 @@
 
 😄 **Interests**
 - **[Mamba/Jamba]**: Exploring new efficieint architecture in **[LLM]**  
-- **[Deep Learning based Anomaly Detection]**: Applying **[AI tools]** to solve real-world indusrty problems  
+- **[Deep Learning based Anomaly Detection]**: Applying **[AI tools]** to solve real-world indusrty problems
+- **[XAI]**: To figure out AI's inner box  
 
 ---
 
